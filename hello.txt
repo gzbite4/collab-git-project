@@ -1,8 +1,3 @@
 Hello from Mars !
-<<<<<<< HEAD
 Tuki-m Wabalabadabadab uki )))
 Wabalabadabadab
-=======
-Tuki-muki )))
-Muki tuki  :D
->>>>>>> 3339b38225561c51b6336ccd831b4091ccc7fea5
